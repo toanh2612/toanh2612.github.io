@@ -20,6 +20,7 @@ def chuctet():
 		while True:
 			now = datetime.datetime.now()
 			if (now.hour==0):
+				posts=requests.get('https://graph.facebook.com/'+id_post+'/reactions',params=payload).json()
 				for i in posts['data']:
 					id_rct=i['id']
 					if (id_rct) not in listliked:
