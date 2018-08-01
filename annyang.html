@@ -1,0 +1,24 @@
+<img id="light" src="http://www.clker.com/cliparts/y/J/U/Z/f/8/simple-light-bulb.svg"></img>
+<script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+<script>
+  var light=document.getElementById('light');
+if (annyang) {
+  // Let's define our first command. First the text we expect, and then the function it should call
+  var commands = {
+    'turn off the light': function() {
+      
+      light.style.visibility = "hidden";
+    }
+    'turn on the light':function(){
+      light.style.visibility = "visible";
+    }
+
+  };
+
+  // Add our commands to annyang
+  annyang.addCommands(commands);
+
+  // Start listening. You can call this here, or attach this call to an event, button, etc.
+  annyang.start();
+}
+</script>
