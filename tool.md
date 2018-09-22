@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog archive
+title: Tools
 ---
 <div class="page-content wc-container">
     <h1>Tools</h1>  
