@@ -4,8 +4,8 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Nguyen Tuan Anh, a student Academy of Cryptography techniques.
-![Me](/assets//image/me.jpg)
+Hi, I am Nguyen Tuan Anh, a student Academy of cryptography techniques.
+![Me](/assets//image/me.jpeg)
 
 ### Contact me
 
