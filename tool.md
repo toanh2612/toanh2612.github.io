@@ -4,7 +4,7 @@ title: Tools
 ---
 <div class="page-content wc-container">
   <h1>Tools</h1>  
-  {% for tools in site.category.tools %}
+  {% for tools in site.categories.tools %}
   	{% capture currentyear %}{{tools.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
     	{% unless forloop.first %}</ul>{% endunless %}
