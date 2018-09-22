@@ -1,13 +1,11 @@
 ---
-layout: default
-tag: tool
-title:  "API"
-date:   2018-09-21 23:56:45
-description: Tool
+layout: post
+title:  "What is API"
+date:   2014-07-28 22:48:45
+description: API
+categories:
+- blog
+- jekyll
 category:tools
-meta:test API
-permalink: sample-post
-meta:test ...
 ---
-
 API
