@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 <ul>
     {% for tools in site.category.tools %}
