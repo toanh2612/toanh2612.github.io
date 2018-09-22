@@ -1,0 +1,25 @@
+---
+layout: post
+tag: tool
+title:  "API"
+date:   2018-09-21 23:56:45
+description: Tool
+categories:
+- blog
+- tool
+permalink: sample-post
+---
+
+Just a sample post to show some of the *typography* elements supported from 
+**harmony** theme.
+
+___
+
+A blockquote:
+
+> Donec in mollis eros, nec rutrum turpis. **Curabitur** sem elit, semper nec volutpat quis, laoreet et sapien. In felis erat, rhoncus sed pellentesque mollis, tincidunt quis elit.
+> - By Someone
+
+## Header 2
+
+Want me to suggest something? Please [Send me a request](https://github.com/web-create/harmony/issues/new)
