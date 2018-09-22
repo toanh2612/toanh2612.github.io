@@ -1,10 +1,11 @@
 ---
-layout: tool
+layout: post
 tag: tool
 title:  "API"
 date:   2018-09-21 23:56:45
 description: Tool
-category:tool
+category:tools
+meta:test API
 permalink: sample-post
 meta:test
 ---
