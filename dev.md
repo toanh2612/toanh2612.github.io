@@ -9,7 +9,7 @@ title: Dev archive
   	{% if currentyear != year %}
     	{% unless forloop.first %}</ul>{% endunless %}
     		<h5>{{ currentyear }}</h5>
-    		<ul class="posts">
+    		<ul class="devs">
     		{% capture year %}{{currentyear}}{% endcapture %}
   		{% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ dev.title }}</a></li>
