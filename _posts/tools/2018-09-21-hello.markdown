@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "TEST 2"
 date:   2018-09-21 22:48:45
 description: TeST 2
