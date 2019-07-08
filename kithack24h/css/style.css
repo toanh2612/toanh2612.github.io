@@ -1,0 +1,40 @@
+.cell-maze{
+    width: 3rem;
+    height: 3rem;
+    background-color: whitesmoke;
+    border: 1px black solid;
+}
+
+.setupBoard{
+    width: 25%;
+}
+
+.displayBoard{
+    width: 75%;
+}
+
+.container{
+    display: flex;
+}
+#btnCreateMaze{
+    width: 100%;
+}
+
+#btnStartMaze{
+    width: 50%;
+}
+#btnEndMaze{
+    width: 50%;
+}
+
+#inputRowMaze{
+    width: 100%;
+}
+
+#inputColMaze{
+    width: 100%;
+}
+
+#weightRandom{
+    width: 100%;
+}
